@@ -6,6 +6,8 @@
 
 ### 📫 *Contact me here:* <p align="left">
 <a href="https://www.linkedin.com/in/raz-elbaz-249311241/" target="LinkedIn" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://github.com/RazElbaz" target="GitHub" rel="noopener noreferrer"> <img src="https://logoeps.com/wp-content/uploads/2014/04/25657-github-sign-icon-vector-icon-vector-eps.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="mailto:Raz4447@gmail.com" target="Gmail"> <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 
 <!---
 RazElbaz/RazElbaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
