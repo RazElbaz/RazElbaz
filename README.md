@@ -4,6 +4,9 @@
 
 #### 📫 How to reach me: Raz4447@gmail.com
 
+### 📫 *Contact me here:* <p align="left">
+<a href="https://www.linkedin.com/in/rotemhalbreich/" target="LinkedIn" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+
 <!---
 RazElbaz/RazElbaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -15,5 +18,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazElbaz&layout=radical)](https://github.com/RazElbaz/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RotemHalbreich&layout=compact&theme=radical&langs_count=8)]![Commit](https://user-images.githubusercontent.com/66558110/111867488-00118e80-897d-11eb-9ea5-10767d7afee2.png)
 
