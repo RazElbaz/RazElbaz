@@ -2,7 +2,6 @@
 
 #### 🎓 My name is Raz Elbaz and I’m a 3rd year Computer Science and Mathematics on the cyber track at Ariel University.
 
-#### 📫 How to reach me: Raz4447@gmail.com
 
 ### 📫 *Contact me here:* <p align="left">
 <a href="https://www.linkedin.com/in/raz-elbaz-249311241/" target="LinkedIn" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
@@ -14,7 +13,7 @@ RazElbaz/RazElbaz is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-## 💻 Programming Languages & Tools 🧰
+## 💻 Programming Languages and Tools 
 
 ![Raz's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazElbaz&show_icons=true&theme=radical)
 
