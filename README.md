@@ -22,3 +22,5 @@ You can click the Preview link to take a look at your changes.
 ## 🧰 *Tools:*
 <br />
 <a href="https://git-scm.com/" title="Git"> <img src="https://github.com/Jewgah/MyIcons/blob/master/git.svg" alt="Git" width="40" height="40"/>  </a>
+<a href="https://www.java.com" title="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>
+<a href="https://www.python.org" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
