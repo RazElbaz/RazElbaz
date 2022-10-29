@@ -5,7 +5,7 @@
 #### 📫 How to reach me: Raz4447@gmail.com
 
 ### 📫 *Contact me here:* <p align="left">
-<a href="https://www.linkedin.com/in/rotemhalbreich/" target="LinkedIn" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.linkedin.com/in/raz-elbaz-249311241/" target="LinkedIn" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
 
 <!---
 RazElbaz/RazElbaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
