@@ -1,6 +1,6 @@
-🎓### **My name is Raz Elbaz and I’m a 3rd year Computer Science and Mathematics on the cyber track at Ariel University.
+#### 🎓*My name is Raz Elbaz and I’m a 3rd year Computer Science and Mathematics on the cyber track at Ariel University.
 
-📫 How to reach me: Raz4447@gmail.com
+#### 📫 How to reach me: Raz4447@gmail.com
 
 <!---
 RazElbaz/RazElbaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
