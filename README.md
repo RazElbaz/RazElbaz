@@ -19,4 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazElbaz&layout=radical)](https://github.com/RazElbaz/github-readme-stats)
 
-
+## 🧰 *Tools:*
+<br />
+<a href="https://git-scm.com/" title="Git"> <img src="https://github.com/Jewgah/MyIcons/blob/master/git.svg" alt="Git" width="40" height="40"/>  </a>
