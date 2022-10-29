@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazElbaz&layout=radical)](https://github.com/RazElbaz/github-readme-stats)
 
-![AI](https://media-exp1.licdn.com/dms/image/C4D16AQFHGs29846Jsg/profile-displaybackgroundimage-shrink_350_1400/0/1602204016314?e=1615420800&v=beta&t=X_vnwpwhvNOBeS21aJy4QR6CIRUGPdBfjWqGy1r8qnk)
+![Github gif](https://avatars0.githubusercontent.com/u/6667880?s=400&v=4)
