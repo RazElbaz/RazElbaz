@@ -24,3 +24,16 @@ You can click the Preview link to take a look at your changes.
 <a href="https://git-scm.com/" title="Git"> <img src="https://github.com/Jewgah/MyIcons/blob/master/git.svg" alt="Git" width="40" height="40"/>  </a>
 <a href="https://www.java.com" title="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>
 <a href="https://www.python.org" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
+<a href="https://www.docker.com/" title="Docker"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://nodejs.org/en/" title="Node.js"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" alt="Node.js" width="40" height="40"/></a>
+  
+<a href="https://www.jetbrains.com/pycharm/" title="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
+<a href="https://www.wireshark.org/" title="WireShark"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Wireshark.png" alt="WireShark" width="45" height="40"/></a>
+  
+<a href="https://www.jetbrains.com/pycharm/" title="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
+<a href="https://www.wireshark.org/" title="WireShark"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Wireshark.png" alt="WireShark" width="45" height="40"/></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"> <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.virtualbox.org/" title="Oracle VM VirtualBox"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>  </a>
+ <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>  </a>
+<a href="https://www.jetbrains.com/clion/" title="CLion"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/clion.svg" alt="CLion" width="40" height="40"/>  </a>
+<a href="https://www.mysql.com/" title="MySQL"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="mysql" width="40" height="40"/></a>
