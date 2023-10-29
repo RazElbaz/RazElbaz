@@ -1,6 +1,6 @@
 ## *Hey there, I'm Raz Elbaz and this is my GitHub page* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/></a>
 
-#### 🎓 My name is Raz Elbaz and I’m a 3rd year Computer Science and Mathematics on the cyber track at Ariel University.
+#### 🎓My name is Raz Elbaz, and I have successfully completed my B.Sc in Computer Science with a major in Cybersecurity.
 
 
 ### 📫 *Contact me here:* <p align="left">
