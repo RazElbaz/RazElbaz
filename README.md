@@ -19,20 +19,55 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazElbaz&layout=compact&theme=radical)](https://github.com/RazElbaz/github-readme-stats)
 
-## 🧰 *Tools*
-<br />
-<a href="https://git-scm.com/" title="Git"> <img src="https://github.com/Jewgah/MyIcons/blob/master/git.svg" alt="Git" width="40" height="40"/>  </a>
-<a href="https://www.java.com" title="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>
-<a href="https://www.python.org" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
-  <a href="https://www.javascript.com/" title="javascript"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="javascript" width="40" height="40"/>  </a>
-<a href="https://www.mysql.com/" title="MySQL"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.docker.com/" title="Docker"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://nodejs.org/en/" title="Node.js"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" alt="Node.js" width="40" height="40"/></a> 
-<a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/pycharm/" title="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/clion/" title="CLion"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/clion.svg" alt="CLion" width="40" height="40"/>  </a>
-<a href="https://www.wireshark.org/" title="WireShark"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Wireshark.png" alt="WireShark" width="45" height="40"/></a>
- <a href="https://www.mongodb.com/" title="MongoDB"> <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="mongodb" width="40" height="40"/></a>
- <a href="https://www.virtualbox.org/" title="Oracle VM VirtualBox"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>  </a>
- <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>  </a>
+
+### 🧰 Tools
+- **Programming Languages:** 
+<a href="https://www.python.org/" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" title="JavaScript (Node.js)"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript (Node.js)" width="40" height="40"/> </a>
+<a href="https://www.java.com/" title="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="40" height="40"/> </a>
+  - C, C++
+  - SQL
+
+- **Advanced Cyber Systems:** 
+  - Checkpoint
+  - Zenoss
+  - Arcsight
+  - Monitoring
+  - Rule Configuration
+
+- **Microservices:** 
+  - <a href="https://kubernetes.io/" title="Kubernetes"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/kubernetes.svg" alt="Kubernetes" width="40" height="40"/> </a>
+  - <a href="https://www.docker.com/" title="Docker"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" width="40" height="40"/> </a>
+  - REST
+  - gRPC
+
+- **Cloud Providers:** 
+  - <a href="https://aws.amazon.com/" title="AWS"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/aws.svg" alt="AWS" width="40" height="40"/> </a>
+  - <a href="https://cloud.google.com/" title="GCP"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-cloud.svg" alt="GCP" width="40" height="40"/> </a>
+
+- **Event Driven Systems:** 
+  - SNS
+  - SQS
+  - Lambda
+  - EKS
+
+- **Databases:** 
+  - <a href="https://www.mongodb.com/" title="MongoDB"> <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" width="40" height="40"/> </a>
+  - <a href="https://www.postgresql.org/" title="PostgreSQL"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+  - <a href="https://www.mysql.com/" title="MySQL"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="40" height="40"/> </a>
+  - InfluxDB
+  - <a href="https://www.elastic.co/elasticsearch/" title="ElasticSearch"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/elasticsearch.svg" alt="ElasticSearch" width="40" height="40"/> </a>
+  - <a href="https://redis.io/" title="Redis"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/redis.svg" alt="Redis" width="40" height="40"/> </a>
+
+- **CI/CD:** 
+  - <a href="https://github.com/" title="GitHub"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/github.svg" alt="GitHub" width="40" height="40"/> </a>
+  - <a href="https://about.gitlab.com/" title="GitLab"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/gitlab.svg" alt="GitLab" width="40" height="40"/> </a>
+
+- **Networking and Security Protocols, Security and Authentication**
+
+- **Other Technology Usage:** 
+  - <a href="https://github.com/tomchen/stack-icons/blob/master/logos/airflow.svg" title="Airflow"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/airflow.svg" alt="Airflow" width="40" height="40"/> </a>
+  - <a href="https://pytorch.org/" title="PyTorch"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pytorch.svg" alt="PyTorch" width="40" height="40"/> </a>
+  - <a href="https://opencv.org/" title="OpenCV"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/opencv.svg" alt="OpenCV" width="40" height="40"/> </a>
+  - FFmpeg
 
