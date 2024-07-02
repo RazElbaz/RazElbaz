@@ -1,7 +1,10 @@
 ## *Hey there, I'm Raz Elbaz and this is my GitHub page* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/></a>
 
-#### 🎓My name is Raz Elbaz, and I have successfully completed my B.Sc in Computer Science with a major in Cybersecurity.
+### 🎓 Education
+ **B.Sc in Computer Science majoring in Cybersecurity**
 
+### 💼 Work Experience
+ **Backend Developer at SightBit**
 
 ### 📫 *Contact me here:* <p align="left">
 <a href="https://www.linkedin.com/in/raz-elbaz-249311241/" target="LinkedIn" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
