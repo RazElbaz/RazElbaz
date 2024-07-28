@@ -25,9 +25,9 @@ You can click the Preview link to take a look at your changes.
 
 ### 🧰 Tools
 - **Programming Languages:** 
-<a href="https://www.python.org/" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" title="JavaScript (Node.js)"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript (Node.js)" width="40" height="40"/> </a>
-<a href="https://www.java.com/" title="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="40" height="40"/> </a>
+  - <a href="https://www.python.org/" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="40" height="40"/> </a>
+  - <a href="https://www.javascript.com/" title="JavaScript (Node.js)"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript (Node.js)" width="40" height="40"/> </a>
+  - <a href="https://www.java.com/" title="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="40" height="40"/> </a>
   - C, C++
   - SQL
 
